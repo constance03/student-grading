@@ -21,7 +21,7 @@ decimal extraCreditAverage = 0;
 decimal pointsExtraCredit = 0;
 
 // Write the Report Header to the console
-Console.WriteLine("Student\t\tExam Score\t\tOverall Grade\t\tExtra Credit\n");
+Console.WriteLine("Student\t\tExam Score\tOverall Grade\t\tExtra Credit\n");
 
 foreach (string name in studentNames)
 {
